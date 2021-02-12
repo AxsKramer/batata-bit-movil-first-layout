@@ -1,2 +1,2 @@
-# batata-bit-movil-first-layout
-A crypto currency web page
+# Batata Bit
+Cryptocurrency landing page project.
